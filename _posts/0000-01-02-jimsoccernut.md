@@ -2,7 +2,7 @@
 
 layout: slide
 
-title: "Welcome to our jimsoccernut slide!"
+title: "Welcome to our jimsoccernut slide!" 🎉
 
 ---
 
