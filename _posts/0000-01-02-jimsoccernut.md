@@ -6,6 +6,6 @@ title: "Welcome to our jimsoccernut slide!"
 
 ---
 
-This is the line I most recently changed
+This is my awesome slide!
 
 Use the left arrow to go back!
